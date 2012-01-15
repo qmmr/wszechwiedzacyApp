@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wszechwiedzacy</string>
+    
+    <string name="mainActivityButtonNewGame">New game</string>
+    <string name="mainActivityButtonTutorial">Tutorial</string>
+    <string name="mainActivityButtonHighscores">Highscores</string>
+
+    <string name="menuOptionsTitle">Options</string>
+    <string name="menuSettingsTitle">Settings</string>
+    
+    <string name="optionsActivityTitle">Options</string>
+    <string name="optionsUsernameSummary">Please enter your username</string>
+    <string name="optionsUsernameTitle">Username</string>
+    
+</resources>
