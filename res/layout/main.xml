@@ -3,8 +3,7 @@
     style="@style/mainActivity" >
 
     <TextView
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+        style="@style/mainActivityTitle"
         android:text="@string/app_name" />
 
     <Button
